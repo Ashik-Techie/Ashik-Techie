@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ashik
 
-I’m a System Administrator moving into Cloud/DevOps, focused on building **production-ready cloud infrastructure** using automation and Infrastructure as Code.
+Passionate about Cloud/DevOps, I design and automate production‑ready AWS infrastructure using Infrastructure as Code and CI/CD practices.
 
 ---
 
