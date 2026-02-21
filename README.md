@@ -1,6 +1,6 @@
 # <center>👋 Hey there, I'm Ashik</center>
 
-Passionate about Cloud/DevOps Engineering, I design and automate production‑ready AWS infrastructure using Infrastructure as Code and CI/CD practices.
+Passionate about Cloud/DevOps Engineering, I design and automate production‑ready AWS infrastructure using Infrastructure as Code and CI/CD pipelines.
 
 ---
 
